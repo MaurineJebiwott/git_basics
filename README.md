@@ -1,0 +1,1 @@
+  Git basics will consist of various tasks that would be helpful to learn the basics of github. It will help me better my skills for both git and github. This projet will majorly be done by me to serve as practice. 
